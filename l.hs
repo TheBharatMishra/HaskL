@@ -61,3 +61,9 @@ primeNumbers = [2,3,5,7,11]
 morePrimes = primeNumbers ++ [13,17,19,23,29]
 
 favNums = 2 : 7 : 8 : 6 : []
+
+multiList = [[3,4,5],[7,4,2]]
+morePrimes2 = 2: morePrimes
+lenPrime = length morePrimes2
+
+revPrime = reverse morePrimes2
