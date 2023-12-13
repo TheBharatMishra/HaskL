@@ -14,3 +14,17 @@ Statically Typed
 
 -- Char '
 -- Tuple
+
+To run the program:
+
+```
+:r
+```
+
+To check the use of operator or function
+
+```
+:t <example>
+```
+
+Lists are singly linked.

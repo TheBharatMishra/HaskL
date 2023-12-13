@@ -38,3 +38,26 @@ negNumEx = 5+ (-3)
 num9 =9
 
 sqrtOf9 = sqrt(fromIntegral num9)
+
+-- Built in Math Functions
+piVal = pi
+ePow9 = exp 9
+logOf9= log 9
+sqrOf9 = 9**2
+truncateVal = truncate 9.9999
+roundVal = round 9.99999
+ceilingVal = ceiling 9.9999
+floorVal = floor 9.99999
+
+-- Also sin, cos, tan, asin, acos, atan, sinh, cosh, tanh, asinh, acosh, atanh
+
+
+trueORfalse = True || False
+trueANDfalse = True && False
+notTrue = not(True)
+
+primeNumbers = [2,3,5,7,11]
+
+morePrimes = primeNumbers ++ [13,17,19,23,29]
+
+favNums = 2 : 7 : 8 : 6 : []
